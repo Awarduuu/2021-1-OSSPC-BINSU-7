@@ -4,8 +4,8 @@
 [![OS](https://img.shields.io/badge/OS-ubuntu-red)](https://ubuntu.com)
 [![Python version](https://img.shields.io/badge/python-3.5.2-brightgreen.svg)](https://www.python.org)
 [![Pygame version](https://img.shields.io/badge/pygame-2.0.0-yellow.svg)](http://pygame.org)  
-**Team Leader**:  Yun Sangwoo [[Awarduuu](https://github.com/Awarduuu)]   
-**Team Member**: Park Shinyoung [[shxnyoung](https://github.com/shxnyoung)], Ahn Subin[[bin9841](https://github.com/bin9841)]
+**Team Leader**: [[Awarduuu](https://github.com/Awarduuu)]   
+**Team Member**: [[shxnyoung](https://github.com/shxnyoung)], [[bin9841](https://github.com/bin9841)]
 
 ## How to play
 ### Installation (OS: Ubuntu)
